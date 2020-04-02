@@ -2,6 +2,8 @@
 layout: default
 title: Choosing the Right Microphone
 author: matt
+categories: guide
+tags: microphone 
 ---
 
 # Choosing the Right Microphone
@@ -28,13 +30,23 @@ I should clearly state that sound emits from a source-object in radials, much li
 
 ## Polar Patterns
 * ### Cardioid
-The most common _Polar Pattern_ used for podcasting and broadcasting is the _Cardioid_, named after the apparent heart-shape it hears. <br>
-![ Cardioid Polar Pattern](/images/2020/04/polarPatternCardioid.png) <br>
-From the above diagram, you should be able to see that _Cardioid_ handles sound extremely well from the front, whilst providing a good _Off-Axis_ rejection of sound. What this translates to in the real world, is that sounds coming from behind the microphone are dampened, and less likely to be heard in your recordings, such as typing keyboards. Cardioid microphones also suffer from the _Proximity Effect_ and should be positioned slightly further away from your sound source to get a more neutral and representational sound.
+The most common _Polar Pattern_ used for podcasting and broadcasting is the _Cardioid_, named after the apparent heart-shape it hears.
+<br>
+
+![Cardioid Polar Pattern](/public/images/polarPatternCardioid.png)
+
+From the above diagram, you should be able to see that _Cardioid_ handles sound extremely well from the front, whilst providing a good _Off-Axis_ rejection of sound. What this translates to in the real world, is that sounds coming from behind the microphone are dampened, and less likely to be heard in your recordings, such as typing keyboards. Cardioid microphones also suffer from the _Proximity Effect_ and should be positioned slightly further away from your sound source to get a more neutral and representational sound. _Cardioid_ microphones also come in other exciting flavours, such as _Hypercardioid_ and/or _Supercardioid_, which are the same initial heart-shape, but more directional. Most commonly these types of microphones are long, thin, shotgun-style for use in very noisy environments.
 
 * ### Omnidirectional
 Less common in the broadcasting and podcasting world, _omnidirectional, or omni_ microphones can 'hear' in a 360<sup>o</sup> arc, great for catching discussions from around the table.
-![Omnidirectional Polar Pattern](/images/2020/04/polarPatternOmni.png)
+![Omnidirectional Polar Pattern](/public/images/polarPatternOmni.png)<br>
  Because of its construction, _Omnidirectional_ microphones have little _Proximity Effect_ issues, and can be placed much closer to a sound source.
+
+* ### Figure of Eight
+The _figure of eight_ polar pattern is a weird and wonderful type of microphone which offers almost unparalleled _off-axis_ rejection from the side.<br>
+
+![Figure of Eight Polar Pattern](/public/images/polarPatternFigureOfEight.png)
+
+Most commonly used in stereo mic-ing, as the name suggests, this polar pattern will pick up sound from the front **and** the back, resulting in a great microphone for an interviewer sitting across from their interviewee. Unfortunately the _Proximity Effect_ should be taken into consideration with this type of microphone.
 
   [f12df6e7]: https://www.astonmics.com/EN/product/Mics/Stealth "Aston Microphone Stealth"
