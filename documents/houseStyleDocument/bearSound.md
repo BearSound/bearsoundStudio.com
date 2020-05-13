@@ -1,0 +1,85 @@
+                     ______________________________
+
+                      BEARSOUND STUDIO HOUSE-STYLE
+                     ______________________________
+
+
+Table of Contents
+_________________
+
+1. bearSound Studio House-Style
+.. 1. Summary of House-Style Requirements
+.. 2. Definition of /Broadcast Quality/ Audio
+
+
+1 bearSound Studio House-Style
+==============================
+
+1.1 Summary of House-Style Requirements
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  bearSound Studio aims to deliver a wide and diverse range of audio
+  content across multiple listening platforms. This document aims to
+  transparently identify the services undertaken by bearSound Studio,
+  henceforth included **as standard** unless noted otherwise. The
+  document will outline both technical and editorial (subjective)
+  requirements such as file type, sample rate, bit depth, and
+  compression, equalisation, and silence.
+
+  Furthermore, this document provides guidance to those wishing to
+  utilise the services of bearSound Studio by providing signal flow
+  information, and relevant details regarding source materials. This is
+  in hope that any potential client understands how bearSound Studio
+  processes audio, and the importance of good quality source material.
+
+  As with any form of media, the true aim of an artist is to fix
+  something in time. Artists use paint and other mediums, photographers
+  light, podcasters and musicians sound. To this end, any client of
+  bearSound Studio is required to provide source materials that will
+  ensure high quality results. A full list of client source requirements
+  can be found in the table below. The inclusion of these requirements
+  helps to fully outline the extent of the studio's post-production
+  capabilities: that is, you can only do so much before making a bad
+  recording even worse.
+
+  The below table sumarises the main points of the document for ease of
+  access. Any items marked with an asterisk denotes an ideal attribute
+  found within the /source material/, deviation of this is to be
+  expected, within appropriate ranges, and should be adhered to at the
+  best of ability given the circumstances by any client.
+
+   *Requirement*          *Details*                           *Further Information* 
+  ----------------------------------------------------------------------------------
+   Source Material*       Linear PCM                          Sec 3.1               
+   Source File Type*      .wav                                Sec 3.1               
+   Source Bit Depth*      16 bit                              Sec 3.1               
+   Source Sample Rate*    48-96kHz                            Sec 3.1               
+   Podcast Feed File      .mp3                                Sec 3.3               
+   Podcast Archival File  .wav                                Sec 3.3               
+   Feed Bit Depth         16 bit                              Sec 3.3               
+   Feed Bitrate           128kbps                                                   
+   Feed Sample Rate       48kHz                               Sec 3.3               
+   Archival Bit Depth     16 bit                              Sec 3.3               
+   Archival Sample Rate   96kHz (upscaled)                                          
+   ID3 Tagging            Feed √                                                    
+   BWF Compliant          Archival √                                                
+   EQ                     Complimentary to vocal frequencies                        
+   Compression            Enhanced for spoken word                                  
+   Silence                Cut to an acceptable minimum                              
+   Ad Insertion           √ if un-monetised                                         
+
+
+1.2 Definition of /Broadcast Quality/ Audio
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  As the world of audio is ever-changing, specifying /Broadcast Quality/
+  in terms of Podcasting and internet radio is of paramount importance
+  to post-production studios. Due to this phenomenon, bearSound Studio
+  defines /Broadcast Quality/ to mean:
+        Audio which is devoid of audible noise - digital or
+        analogue - within appropriate listening levels, whilst
+        also portraying a dynamic range which represets the final
+        consumption material (i.e. podcast/audiobook/music track)
+        and a pleasing diffusion of frequency levels across the
+        human hearing spectrum (20Hz-20kHz), without egregious
+        amplitude of bass, mid, or treble bands.
