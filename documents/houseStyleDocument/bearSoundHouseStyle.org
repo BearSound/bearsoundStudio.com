@@ -1,4 +1,4 @@
-* bearSound Studio House-Style
+* bearSound Studio House-Style v0.1
 ** Summary of House-Style Requirements 
 bearSound Studio aims to deliver a wide and diverse range of audio content across multiple listening platforms. This document aims to transparently identify the services undertaken by bearSound Studio, henceforth included **as standard** unless noted otherwise. The document will outline both technical and editorial (subjective) requirements such as file type, sample rate, bit depth, and compression, equalisation, and silence.
 
