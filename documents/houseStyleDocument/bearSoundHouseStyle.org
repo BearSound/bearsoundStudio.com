@@ -41,5 +41,5 @@ As per the documented requirements for the Broadcast Wave Format (BWF) metadata,
 
 #+CAPTION: Originator Reference Breakdown
 #+NAME:   fig:SED-HR4049
-[[assets/BSS_originatorReference500x300.png]]
+[[assets/BSS_originatorReference.png]]
 
