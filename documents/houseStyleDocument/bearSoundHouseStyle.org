@@ -36,3 +36,6 @@ As the world of audio is ever-changing, specifying /Broadcast Quality/ in terms 
 Audio which is devoid of audible noise - digital or analogue - within appropriate listening levels, whilst also portraying a dynamic range which represets the final consumption material (i.e. podcast/audiobook/music track) and a pleasing diffusion of frequency levels across the human hearing spectrum (20Hz-20kHz), without egregious amplitude of bass, mid, or treble bands.
 #+END_QUOTE
 
+** Defining a bearSound Studio Originator Reference
+As per the documented requirements for the Broadcast Wave Format (BWF) metadata, bearSound Studio conforms with a standardised originator reference. This reference can be broken down into logical `chunks`;
+
