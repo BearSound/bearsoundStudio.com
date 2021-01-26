@@ -37,5 +37,9 @@ Audio which is devoid of audible noise - digital or analogue - within appropriat
 #+END_QUOTE
 
 ** Defining a bearSound Studio Originator Reference
-As per the documented requirements for the Broadcast Wave Format (BWF) metadata, bearSound Studio conforms with a standardised originator reference. This reference can be broken down into logical `chunks`;
+As per the documented requirements for the Broadcast Wave Format (BWF) metadata, bearSound Studio conforms with a standardised originator reference. This reference can be broken down into logical **chunks**;
+
+#+CAPTION: Originator Reference Breakdown
+#+NAME:   fig:SED-HR4049
+[[assets/BSS_originatorReference500x300.png]]
 
